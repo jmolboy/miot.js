@@ -8,7 +8,7 @@
 */
 
 /**************************************************************************************************************************
-this framework have added many common methods and root elements.
+this framework have added many common methods and root elements.t
 the root element named M has been added to the window object,so you can use it anywhere with M.* ;
 
 the framework has three namespaces[M.page,M.util,M.CONST],each namespace has its own objects,they are used to isolate complex
